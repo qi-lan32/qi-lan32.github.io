@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Qi's Blog
 subtitle: ''
-description: ''
+description: 'Recording my learning journey in CS'
 keywords:
-author: John Doe
+author: Qilan Lao 
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://qi-lan32.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
